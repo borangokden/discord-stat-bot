@@ -1,0 +1,17 @@
+{
+  "Prefix": "!",
+  "Sahip": ["SAHIP ID"],
+  
+  "BotSesKanalı": "BOT SES KANALI ID",
+  "BotDurum": "YOUTUBE MATTHE",
+  
+ "PublicKategori": "PUBLİC KATEGORİSİ ID",
+"KayıtKategori": "KAYIT KATEGORİSİ ID",  
+"TerapiKategori": "TERAPİ KATEGORİSİ ID",  
+"SorunÇözmeKategori": "SORUN ÇÖZME KATEGORİSİ ID",   
+"VKKategori": "VK KATEGORİSİ ID",   
+"DCKategori": "DC KATEGORİSİ ID",  
+"GameKategori": "OYUN KATEGORİSİ ID", 
+"PrivateKategori": "PRİVATE KATEGORİSİ ID",    
+"AloneKategori": "ALONE KATEGORİSİ ID"
+}
