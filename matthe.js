@@ -543,6 +543,6 @@ ${ arvey.join ( "\n" ) }
 
 //-------------------------------------- TOKEN KISIMI -----------------------------\\
 
-client.login(process.env.token)
+client.login(ayarlar.Token)
 
 //-------------------------------------- TOKEN KISIMI -----------------------------\\
