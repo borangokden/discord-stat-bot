@@ -247,7 +247,7 @@ client.on ( "message" , async message => {
 //-----------------------------------------------------------------------------------------------------------------------------------\\
 
 client.on ( "message" , async msg => {
-    if ( msg.content.startsWith ( (`${ayarlar.prefix}me`) ) || msg.content.startsWith ( `${ayarlar.prefix}stat` ) ) {
+    if ( msg.content.startsWith ( (`${ayarlar.Prefix}me`) ) || msg.content.startsWith ( `${ayarlar.Prefix}stat` ) ) {
         if ( msg.author.bot ) return;
 
         var user = msg.mentions.users.first ();
@@ -420,7 +420,7 @@ ${ liste }
 
 client.on ( "message" , async msj => {
     let member = msj.guild.members.cache.get ( msj.author.id )
-    if ( ! msj.content.startsWith ( `${ayarlar.prefix}top` ) ) {
+    if ( ! msj.content.startsWith ( `${ayarlar.Prefix}top` ) ) {
         return;
     }
     let data = await db
