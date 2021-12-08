@@ -1,4 +1,4 @@
-# Matthe-Stats-Main 
+# BoranGkdn-Stats-Main 
 Discord sunucularınızda kullanmanız için kodlanmış bir " Stats / İstatistik Takipçisi " projesi.
 
 # Nasıl Kullanılır?
