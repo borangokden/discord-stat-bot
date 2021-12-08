@@ -6,12 +6,12 @@ Discord sunucularınızda kullanmanız için kodlanmış bir " Stats / İstatist
 
 # Destek/İletişim
 Discord: https://discord.gg/2wY8PP3Gn3 
-Discord Nick: Matthe#0001
+Discord Nick: BoranGkdn#0001
 
-YouTube: https://youtube.com/Matthecim
-YouTube Nick: Matthe
+YouTube: https://youtube.com/BoranGkdn
+YouTube Nick: BoranGkdn
 
-Instagram: https://www.instagram.com/borangkdn/
+Instagram: https://www.instagram.com/BoranGkdn/
 Instagram Nick: borangkdn
 
 İyi kullanımlar.
