@@ -1,10 +1,10 @@
 {
-  "name": "hello-express",
+  "name": "borangkdn-stats-main",
   "version": "0.0.1",
   "description": "matthe-stat-bot",
-  "main": "matthe.js",
+  "main": "borangkdn.js",
   "scripts": {
-    "start": "node matthe.js"
+    "start": "borangkdn.js"
   },
   "dependencies": {
     "discord-logs": "^1.9.0",
@@ -29,5 +29,5 @@
     "express"
   ],
   "devDependencies": {},
-  "author": ""
+  "author": "BoranGkdn"
 }
