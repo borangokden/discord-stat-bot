@@ -21,7 +21,7 @@ let alone = (ayarlar.AloneKategori)   // ALONE KATAGORİ ID
 
 client.on ( "ready" , () => {
     console.log ( "Başarıyla", client.user.username + "İsmi İle Giriş Yapıldı!" );
-    console.log("MATTHE YOUTUBE")
+    "BORANGKDN YOUTUBE")
 } );
 
 //--------------------- CONSOL AKTİF OLDUĞUNA DAİR MESAJ GÖNDERME ------------------------------------\\
@@ -385,7 +385,7 @@ client.on ( "message" , async msg => {
 //-----------------------------------------------------------------------------------------------------------------------------------\\
 
             .setAuthor ( user.tag , user.avatarURL ( { "dynamic" : true } ) )
-            .setFooter('YOUTUBE MATTHE')
+            .setFooter('YOUTUBE BORANGKDN)
             .setTimestamp()
             .setColor ( "RANDOM" )
             .setThumbnail ( user.avatarURL ( { "dynamic" : true } ) )
