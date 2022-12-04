@@ -1,17 +1,16 @@
-# BoranGkdn-Stats-Main 
+# BoranGökden-Stats-Main 
 Discord sunucularınızda kullanmanız için kodlanmış bir " Stats / İstatistik Takipçisi " projesi.
 
 # Nasıl Kullanılır?
 Öncelikle ayarlar.json kısmını doldurursanız bot çalışmaya başlayacaktır.
 
 # Destek/İletişim
-Discord: https://discord.gg/2wY8PP3Gn3 
-Discord Nick: BoranGkdn#0001
+Discord: https://discord.gg/borangkdn 
+Discord Nick: Boran Gökden#0001
 
-YouTube: https://youtube.com/BoranGkdn
+YouTube: https://youtube.com/@borangokden
 YouTube Nick: BoranGkdn
 
-Instagram: https://www.instagram.com/BoranGkdn/
-Instagram Nick: borangkdn
+Instagram: https://www.instagram.com/borangokden/
 
 İyi kullanımlar.
