@@ -9,7 +9,6 @@ Discord: https://discord.gg/borangkdn
 Discord Nick: Boran Gökden#0001
 
 YouTube: https://youtube.com/@borangokden
-YouTube Nick: BoranGkdn
 
 Instagram: https://www.instagram.com/borangokden/
 
